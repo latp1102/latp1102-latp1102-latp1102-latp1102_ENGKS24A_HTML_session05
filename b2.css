@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: #11AF52;
+    text-decoration: underline green dotted;
+}
