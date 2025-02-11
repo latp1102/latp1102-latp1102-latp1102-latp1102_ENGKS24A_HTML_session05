@@ -1,0 +1,13 @@
+table{
+    width: 800px;
+    border-collapse: collapse;
+}
+
+td{
+    vertical-align: top;
+    padding: 10px;
+}
+
+.image{
+    width: 300px;
+}
