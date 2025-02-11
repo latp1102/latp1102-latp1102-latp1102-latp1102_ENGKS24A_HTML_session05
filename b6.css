@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1{
+    font-size: 30px;
+}
+.a{
+    font-size: 20px;
+}
+.center{
+    text-align: center;
+    border: 5px solid green;
+    padding: 10px;
+    width: 50%;
+    margin: 20px auto;
+}
+.Example{
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+}
+.b{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-left: 5px solid green;
+    font-family: monospace;
+    color: black;
+}
+.button{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 10px;
+}
