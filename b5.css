@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+h2{
+    color: blue; 
+}
+
+.a{
+    max-width: 800px;
+}
+
+.b{
+    background-color: #FFFAEF; 
+    border-left: 5px solid yellow; 
+    padding: 15px;
+    margin-top: 20px;
+}
+
